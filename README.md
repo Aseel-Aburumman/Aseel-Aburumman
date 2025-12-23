@@ -14,3 +14,4 @@ clean architecture, maintainability, and real-world problem solving.
 - Tools: Git, GitHub, Figma, basic AWS
 
 ---
+Note: Most production work is under NDA.
