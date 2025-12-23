@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aseel Aburummman
+Full-Stack Software Engineer  
+React • Laravel • Systems-Oriented Development
 
-<!--
-**Aseel-Aburumman/Aseel-Aburumman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build structured, scalable web applications with a strong focus on
+clean architecture, maintainability, and real-world problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+- Frontend: React, Tailwind CSS, PrimeReact
+- Backend: Laravel, PHP, REST APIs
+- Database: MySQL
+- Tools: Git, GitHub, Figma, basic AWS
+
+---
